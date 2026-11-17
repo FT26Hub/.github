@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" fill="none">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10B981"/>
+      <stop offset="1" stop-color="#C6F432"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10B981" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#10B981" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#C6F432" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M24 110h1152" stroke="url(#fade)" stroke-width="1.5"/>
+  <path d="M121 110 151 92.7v-34.6L121 40.8 91 58.1v34.6z" stroke="url(#accent)" stroke-opacity=".65" stroke-width="1.5"/>
+  <path d="M1079 110 1109 92.7V58.1l-30-17.3-30 17.3v34.6z" stroke="url(#accent)" stroke-opacity=".65" stroke-width="1.5"/>
+  <path d="M183 110 226.3 85v-50L183 10l-43.3 25v50z" stroke="url(#accent)" stroke-opacity=".3" stroke-width="1.5"/>
+  <path d="M1017 110 1060.3 85V35L1017 10l-43.3 25v50z" stroke="url(#accent)" stroke-opacity=".3" stroke-width="1.5"/>
+  <circle cx="600" cy="110" r="44" stroke="url(#accent)" stroke-opacity=".7" stroke-width="1.5"/>
+  <circle cx="600" cy="110" r="25" stroke="url(#accent)" stroke-opacity=".35" stroke-width="1"/>
+  <circle cx="600" cy="110" r="4" fill="url(#accent)"/>
+  <circle cx="402" cy="110" r="3" fill="#10B981" fill-opacity=".7"/>
+  <circle cx="798" cy="110" r="3" fill="#C6F432" fill-opacity=".7"/>
+  <path d="M409 110h147M644 110h147" stroke="url(#fade)" stroke-width="1"/>
+  <path d="M245 110h82M873 110h82" stroke="url(#accent)" stroke-opacity=".25" stroke-width="1" stroke-dasharray="2 7"/>
+  <path d="M600 55V31M600 189v-24M545 110h-24M679 110h-24" stroke="url(#accent)" stroke-opacity=".45" stroke-width="1"/>
+</svg>
