@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" width="1040" height="280"><rect width="520" height="140" fill="#FFFFFF"/><g transform="translate(10,10)"><defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#059669"/><stop offset="1" stop-color="#84CC16"/></linearGradient></defs>
+<polygon points="60,5 107.6,32.5 107.6,87.5 60,115 12.4,87.5 12.4,32.5" fill="#ECFDF5" stroke="url(#a)" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="60,14 99.8,37 99.8,83 60,106 20.2,83 20.2,37" fill="none" stroke="url(#a)" stroke-width="1" opacity=".5"/>
+<g stroke="url(#a)" stroke-width="3" stroke-linecap="round"><line x1="60" y1="5" x2="60" y2="-1" opacity="0"/></g>
+<g transform="translate(60,58) scale(.76) translate(-62,-60)">
+<polygon fill="#0B1F17" points="28,28 60,28 60,42 42,42 42,54 56,54 56,67 42,67 42,92 28,92"/>
+<polygon fill="url(#a)" points="64,28 96,28 90,42 87,42 87,92 73,92 73,42 64,42"/></g>
+<g fill="url(#a)"><rect x="47" y="94" width="5.5" height="4" rx="1"/><rect x="56.5" y="91" width="5.5" height="7" rx="1"/><rect x="66" y="87" width="5.5" height="11" rx="1"/></g></g><text x="150" y="86" text-anchor="start" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-weight="800" font-size="62" letter-spacing="-1" fill="#0B1F17">FT<tspan fill="#059669">Hub</tspan></text><text x="152" y="109" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5" letter-spacing="4.5" fill="#059669">DIGITAL PRODUCT LAB</text><defs><linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#059669"/><stop offset="1" stop-color="#84CC16" stop-opacity="0"/></linearGradient></defs><rect x="152" y="120" width="330" height="2" fill="url(#l)"/></svg>
