@@ -15,7 +15,7 @@
 
 ---
 
-FT26Hub è un **digital product lab**: sviluppiamo idee innovative in ambito digitale, esplorando nuove possibilità per le esperienze online e gli spazi personali.
+FTHub è un **digital product lab**: sviluppiamo idee innovative in ambito digitale, esplorando nuove possibilità per le esperienze online e gli spazi personali.
 
 ## I nostri orizzonti
 
